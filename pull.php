@@ -1,2 +1,2 @@
 <?php
-echo 'pull request';
+echo 'new pull request';
