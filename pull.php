@@ -1,2 +1,2 @@
 <?php
-echo 'pull request for lesson 1';
+echo 'pull request for lesson_1';
